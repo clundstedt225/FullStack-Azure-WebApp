@@ -1,0 +1,9 @@
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\bin\Release\netstandard2.0\Model.deps.json
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\bin\Release\netstandard2.0\Model.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\bin\Release\netstandard2.0\Model.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\obj\Release\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\obj\Release\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\obj\Release\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\obj\Release\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\obj\Release\netstandard2.0\Model.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\obj\Release\netstandard2.0\Model.pdb

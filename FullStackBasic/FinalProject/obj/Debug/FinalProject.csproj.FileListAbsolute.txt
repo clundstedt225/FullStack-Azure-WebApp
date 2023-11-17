@@ -1,0 +1,29 @@
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\bin\Debug\Model.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\bin\Debug\Repositories.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\bin\Debug\ServiceBus.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\bin\Debug\Model.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\bin\Debug\Repositories.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\bin\Debug\ServiceBus.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.OrderForm.resources
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.DetailsForm.resources
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.DetailsForm.resources
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.Form1.resources
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.OrderForm.resources
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache

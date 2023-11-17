@@ -1,0 +1,37 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h3 class="display-4">Perform C.R.U.D Operations on the Azure DB using this Web App</h3>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div>
+    <hr>
+    <hr>
+    <a asp-page="Create">Create New Author</a>
+    <hr>
+</div>
+
+<div>
+    <table class="table">
+        <thead>        <tr>        <th> First </th>        <th> last </th>        </tr>    </thead>
+        <tbody>
+            @foreach (var au in Model.Authors)
+            {
+                <tr>
+                    <td> @au.FirstName </td>
+                    <td> @au.LastName </td>
+                    <td><a asp-page="Details" asp-route-aid="@au.ID">Details</a></td>
+                    <td><a asp-page="Edit" asp-route-aid="@au.ID">Edit</a></td>
+                    <td><a asp-page="Index" asp-route-aid="@au.ID">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

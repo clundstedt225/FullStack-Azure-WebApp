@@ -1,0 +1,92 @@
+D:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\bin\Debug\netstandard2.0\Model.deps.json
+D:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\bin\Debug\netstandard2.0\Model.dll
+D:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\bin\Debug\netstandard2.0\Model.pdb
+D:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
+D:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+D:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+D:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+D:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\obj\Debug\netstandard2.0\Model.dll
+D:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\obj\Debug\netstandard2.0\Model.pdb
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\bin\Debug\netstandard2.0\Model.deps.json
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\bin\Debug\netstandard2.0\Model.dll
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\bin\Debug\netstandard2.0\Model.pdb
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\obj\Debug\netstandard2.0\Model.dll
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\RepositoryPattern\Model\obj\Debug\netstandard2.0\Model.pdb
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.deps.json
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.dll
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.pdb
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.dll
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.pdb
+T:\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.deps.json
+T:\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.dll
+T:\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.pdb
+T:\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
+T:\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+T:\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+T:\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+T:\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.dll
+T:\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.pdb
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.deps.json
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.dll
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.pdb
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.dll
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.deps.json
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.deps.json
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.deps.json
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.pdb
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.deps.json
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.pdb
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csproj.AssemblyReference.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.pdb
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.deps.json
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\Model\bin\Debug\netstandard2.0\Model.pdb
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csproj.AssemblyReference.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\Model\obj\Debug\netstandard2.0\Model.pdb

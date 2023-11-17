@@ -1,0 +1,162 @@
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.exe
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\ServiceBus.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\ServiceBus.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.AssemblyInfoInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.AssemblyInfo.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.RazorAssemblyInfo.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.RazorAssemblyInfo.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.TagHelpers.input.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.TagHelpers.output.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.RazorCoreGenerate.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.RazorTargetAssemblyInfo.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.RazorTargetAssemblyInfo.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.csproj.CopyComplete
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\staticwebassets\RazorLab.StaticWebAssets.Manifest.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\staticwebassets\RazorLab.StaticWebAssets.xml
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.deps.json
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.runtimeconfig.json
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.runtimeconfig.dev.json
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.Views.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.Views.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.Views.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.genruntimeconfig.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Details.cshtml.g.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Create.cshtml.g.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.MvcApplicationPartsAssemblyInfo.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\appsettings.json
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.StaticWebAssets.xml
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.exe
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.deps.json
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.runtimeconfig.json
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.runtimeconfig.dev.json
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.pdb
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.Views.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.Views.pdb
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Model.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Repositories.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\ServiceBus.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Model.pdb
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Repositories.pdb
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\ServiceBus.pdb
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.csproj.AssemblyReference.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.AssemblyInfoInputs.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.AssemblyInfo.cs
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.csproj.CoreCompileInputs.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.MvcApplicationPartsAssemblyInfo.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.RazorAssemblyInfo.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.RazorAssemblyInfo.cs
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\staticwebassets\RazorLab.StaticWebAssets.Manifest.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.TagHelpers.input.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.TagHelpers.output.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.RazorCoreGenerate.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Create.cshtml.g.cs
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Details.cshtml.g.cs
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.RazorTargetAssemblyInfo.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.RazorTargetAssemblyInfo.cs
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.Views.pdb
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.csproj.CopyComplete
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.pdb
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.genruntimeconfig.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.StaticWebAssets.xml
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.exe
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.deps.json
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.runtimeconfig.json
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.runtimeconfig.dev.json
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.pdb
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.Views.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\RazorLab.Views.pdb
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Model.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Repositories.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\ServiceBus.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Model.pdb
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\Repositories.pdb
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\bin\Debug\netcoreapp3.1\ServiceBus.pdb
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.csproj.AssemblyReference.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.AssemblyInfoInputs.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.AssemblyInfo.cs
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.csproj.CoreCompileInputs.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.MvcApplicationPartsAssemblyInfo.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.RazorAssemblyInfo.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.RazorAssemblyInfo.cs
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\staticwebassets\RazorLab.StaticWebAssets.Manifest.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.TagHelpers.input.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.TagHelpers.output.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.RazorCoreGenerate.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Create.cshtml.g.cs
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Details.cshtml.g.cs
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.RazorTargetAssemblyInfo.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.RazorTargetAssemblyInfo.cs
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.Views.pdb
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.csproj.CopyComplete
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.pdb
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\RazorLab\obj\Debug\netcoreapp3.1\RazorLab.genruntimeconfig.cache

@@ -1,0 +1,120 @@
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+T:\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+T:\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+T:\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+T:\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+T:\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+T:\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+T:\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+T:\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+T:\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+T:\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+T:\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+T:\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+T:\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+T:\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+F:\NHTI\__FALL_2020\CPET240\FullStackBasicDay\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab04\otha\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab05\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\Connor\Desktop\NHTI\CP240\Labs\Lab06\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.AssemblyReference.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+E:\College Code\NHTI covid desktop\CP240\Labs\Lab06\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.AssemblyReference.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+E:\Github Repos\FullStack-Azure-WebApp\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb

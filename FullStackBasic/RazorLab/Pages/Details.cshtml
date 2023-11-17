@@ -1,0 +1,21 @@
+﻿@page
+@model RazorLab.Pages.DetailsModel
+@{
+}
+
+<div>
+    <h1>Author Details</h1>
+    <hr>
+
+    <p>First Name: @Model.Author.au_fname</p>
+    <p>Last Name: @Model.Author.au_lname</p>
+    <p>Phone Number: @Model.Author.au_phone</p>
+    <p>Address: @Model.Author.au_address</p>
+    <p>State: @Model.Author.au_state</p>
+    <p>City: @Model.Author.au_city</p>
+    <p>Zip Code: @Model.Author.au_zip</p>
+    <p>Contract: @Model.Author.au_contract</p>
+
+    <hr>
+    <a asp-page="Index">Back</a>
+</div>
